@@ -1,0 +1,217 @@
+﻿body {
+    background: #FFF;
+    font-family: Verdana;
+    /*CCFFCC*/
+}
+
+
+#head {
+    width: 1000px;
+    height: 100px;
+    border: solid 1px white;
+    /* box-shadow:0px 0px 15px 0px green;*/
+    margin: 0 auto;
+    text-align: center;
+    background: #fff;
+}
+
+#login {
+    height: 180px;
+    width: 350px;
+    border: solid 0px green;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+#img {
+    height: 320px;
+    width: 700px;
+    border: solid 0px green;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+.tbl {
+    width: 100%;
+    border: solid 1px #ddd;
+    background: #FFF;
+}
+
+.tblhead {
+    background: green;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    background: linear-gradient(#000, #7d7d7d);
+}
+
+.lbl {
+    text-align: right;
+    color: black;
+}
+
+.txt {
+    border: solid 1px #9b9b9b;
+    background: #E1E1E1;
+}
+
+    .txt:hover {
+        border: solid 1px #840000;
+    }
+
+.btn:hover {
+    background: Green;
+    color: #fff;
+    font-weight: bold;
+    border: solid 2px #000;
+    height: 30px;
+    background: linear-gradient(#730000, #000);
+}
+
+.btn {
+    background: #ff6600;
+    color: #fff;
+    font-weight: bold;
+    border: solid 2px black;
+    height: 30px;
+    cursor: pointer;
+    transition: background-color 1s ease;
+    background: linear-gradient(#000, #757575);
+    border-radius: 5px;
+}
+.Submit {
+    background-color: blue;
+    border-radius: 8px;
+    border: violet;
+    cursor: pointer;
+    transition: background-color 1s ease;
+    background: linear-gradient(#1e3af7, #8f8888);
+    
+}
+
+
+#main {
+    width: 1500px;
+    height: 540px;
+    border: solid 1px #c8c8c8;
+    /* box-shadow:0px 0px 15px 0px green;*/
+    margin: 0 auto;
+    background: #fff;
+}
+
+#menu {
+    width: 272px;
+    height: 540px;
+    border: solid 0px red;
+    float: left;
+    background: #fff;
+}
+
+#detail {
+    width: 1200px;
+    height: 510px;
+    border: solid 0px red;
+    float: left;
+    margin-left: 5px;
+    background: #fff;
+}
+
+.btnmenu {
+    background: Black;
+    color: #fff;
+    font-weight: bold;
+    width: 100%;
+    height: 40px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+
+
+    .btnmenu:hover {
+        background: Green;
+        color: #fff;
+        font-weight: bold;
+        transition: background-color .6s ease;
+    }
+
+.lnk {
+    color: #003982;
+    font-weight: bold;
+}
+
+    .lnk:hover {
+        color: #f00;
+        font-weight: bold;
+    }
+
+.modern-gridview {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+    .modern-gridview th {
+        background: #4A90E2;
+        color: white;
+        padding: 12px;
+        text-align: left;
+        border-bottom: 2px solid #ddd;
+    }
+
+    .modern-gridview td {
+        background: #fff;
+        padding: 12px;
+        border-bottom: 1px solid #eee;
+        transition: background 0.3s;
+    }
+
+    .modern-gridview tr:hover td {
+        background-color: #f1f8ff;
+    }
+
+    .modern-gridview tr:last-child td {
+        border-bottom: none;}
+
+.Form-Control{
+    width: 100%;
+    padding: 12px 14px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-sizing:border-box;
+}
+
+.Form-Control:focus{
+    border-color: #007bff;
+    box-shadow: 0 0 4px rgba(0, 123, 255, 0.4);
+    outline: none;
+}
+
+.Dropdown {
+    display: flex;
+    align-items: center;
+ 
+   
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    box-sizing:border-box;
+    text-align:center;
+}
+
+    .Dropdown:focus {
+        border-color: #007bff;
+        box-shadow: 0 0 4px rgba(0, 123, 255, 0.4);
+        outline: none;
+    }
+
+
