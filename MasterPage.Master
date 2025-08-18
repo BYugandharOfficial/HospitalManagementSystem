@@ -81,48 +81,7 @@
                         </td>
                     </tr>
                     <%-- <tr>
-              <td>
-                    <asp:Button ID="Button4" runat="server" CssClass="btnmenu" Text="ADD STUDENT" 
-                        PostBackUrl="~/AddStudent.aspx" CausesValidation="False" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <asp:Button ID="Button5" runat="server" CssClass="btnmenu" 
-                        Text="STUDENT REPORT" CausesValidation="False" 
-                        PostBackUrl="~/Studenteport.aspx" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <asp:Button ID="Button6" runat="server" CssClass="btnmenu" Text="ISSUE BOOK" 
-                        CausesValidation="False" PostBackUrl="~/BookIssue.aspx" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <asp:Button ID="Button7" runat="server" CssClass="btnmenu" 
-                        Text="ISSUE REPORT" CausesValidation="False" 
-                        PostBackUrl="~/Issuereport.aspx" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <asp:Button ID="Button8" runat="server" CssClass="btnmenu" Text="RETURN BOOK" 
-                        CausesValidation="False" PostBackUrl="~/BookReturn.aspx" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <asp:Button ID="Button9" runat="server" CssClass="btnmenu" Text="PENALTY" 
-                        CausesValidation="False" PostBackUrl="~/Panalty.aspx" />
-                </td>
-            </tr>--%>
-
-                    <%--<td>
-                    <asp:Button ID="Button10" runat="server" CssClass="btnmenu" Text="LogOut" 
-                        CausesValidation="False" onclick="Button10_Click" />
-                </td>--%>
+       
                 </table>
             </div>
             <div id="detail">
@@ -135,3 +94,4 @@
     </form>
 </body>
 </html>
+
