@@ -4,9 +4,7 @@
 
 
 
-
 <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/a1308b87-159c-4290-8c69-1888736ab7d9" />
-
 
 
 
@@ -14,9 +12,7 @@
 
 
 
-
 <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/b4c64600-0113-44c8-bba0-d3a2d3bd40c4" />
-
 
 
 
@@ -24,9 +20,7 @@
 
 
 
-
 <img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/55db97c7-3aa8-4a82-955d-db3cc56145e7" />
-
 
 
 
@@ -34,14 +28,11 @@
 
 
 
-
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/a692f680-6b19-4e57-a108-930e8a1e5ea4" />
 
 
 
-
 <img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/782a955c-d8bc-4de9-b1d6-3d4faa0d45e9" />
-
 
 
 Here i am using Procedure with adding All fees as total
